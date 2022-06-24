@@ -49,16 +49,6 @@
 
 ###
 
-<br clear="both">
-
 <img href="https://raw.githubusercontent.com/guilhermeafonsodev/guilhermeafonsodev/blob/output/snake.svg" alt="Snake animation" />
-
-###
-
-<div align="center">
-  <a href="https://open.spotify.com/user/12142766175">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?count=3&unique=true" alt="Spotify recently played"  />
-  </a>
-</div>
 
 ###
