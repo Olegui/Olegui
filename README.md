@@ -1,4 +1,4 @@
-<h2 align="center">Olá! 👋! Eu sou Guilherme Afonso!</h2>
+<h2 align="center">👋 Olá! Eu sou Guilherme Afonso!</h2>
 
 ###
 
