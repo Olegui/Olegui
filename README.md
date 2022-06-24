@@ -48,7 +48,3 @@
 </div>
 
 ###
-
-<img href="https://raw.githubusercontent.com/guilhermeafonsodev/guilhermeafonsodev/blob/output/snake.svg" alt="Snake animation" />
-
-###
