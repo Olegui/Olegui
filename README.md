@@ -42,7 +42,7 @@
   <a href="https://www.instagram.com/guilherme.afonso/?theme=dark" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="48" height="28" alt="instagram logo"  />
   </a>
-  <a href="https://www.twitch.tv/olegverso" target="_blank">
+  <a href="https://www.twitch.tv/olegnoir" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitch/default.svg" width="48" height="28" alt="twitch logo"  />
   </a>
 </div>
