@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center">Me chamo Guilherme Afonso e tenho 29 anos. Sou desenvolvedor web desde 2011, apaixonado por programação e design.<br><br>Em 2014, iniciei a Pianogui Comunicação, onde trabalhamos com criação de identidade visual, papelaria, websites, sistemas web e sistema de senha indexada a mídia indoor. Porém, em janeiro de 2022 este projeto foi descontinuado.</p>
+<p align="center">Me chamo Guilherme Afonso e tenho 30 anos. Sou desenvolvedor web desde 2011, apaixonado por programação e design.<br><br>Em 2014, iniciei a Pianogui Comunicação, onde trabalhamos com criação de identidade visual, papelaria, websites, sistemas web e sistema de senha indexada a mídia indoor. Porém, em janeiro de 2022 este projeto foi descontinuado.</p>
 
 ###
 
