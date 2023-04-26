@@ -50,9 +50,6 @@
   <a href="https://twitch.tv/olegnoir" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=282a36&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
   </a>
-  <a href="Oleg#11489" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=282a36&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  </a>
 </div>
 
 ###
