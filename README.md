@@ -58,6 +58,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/guilhermeafonsodev/guilhermeafonsodev/blob/output/snake.svg" alt="Snake animation" />
+<img align="left" height="170" src="https://profile-readme-generator.com/assets/snake.svg"  />
 
 ###
