@@ -34,6 +34,9 @@
 <br clear="both">
 
 <div align="center">
+  <a href="https://taggo.one/guilhermeafonso" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Infos&logo=linktree&label=&color=282a36&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linktree logo"  />
+  </a>
   <a href="https://www.linkedin.com/in/guilhermeafonsodev/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=282a36&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
