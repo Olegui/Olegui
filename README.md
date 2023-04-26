@@ -31,11 +31,9 @@
 
 ###
 
-<img align="right" height="150" src="https://i.giphy.com/media/13FrpeVH09Zrb2/giphy.webp"  />
+<br clear="both">
 
-###
-
-<div align="left">
+<div align="center">
   <a href="https://www.instagram.com/guilherme.afonso/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=282a36&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
@@ -48,12 +46,15 @@
   <a href="https://www.linkedin.com/in/guilhermeafonsodev/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=282a36&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
+  <a href="https://www.behance.net/guilhermeafonso" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Behance&logo=behance&label=&color=282a36&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="behance logo"  />
+  </a>
 </div>
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/guilhermeafonsodev/guilhermeafonsodev/blob/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <img height="250" src="https://i.giphy.com/media/13FrpeVH09Zrb2/giphy.webp"  />
+</div>
 
 ###
