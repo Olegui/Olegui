@@ -58,6 +58,6 @@
 
 ###
 
-<img align="left" height="170" src="https://profile-readme-generator.com/assets/snake.svg"  />
+<img align="left" height="150" src="https://profile-readme-generator.com/assets/snake.svg"  />
 
 ###
