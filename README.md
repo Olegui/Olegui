@@ -54,10 +54,14 @@
 
 ###
 
-<img align="right" height="200" src="https://i.giphy.com/media/13FrpeVH09Zrb2/giphy.webp"  />
+<div align="center">
+  <img height="200" src="https://i.giphy.com/media/13FrpeVH09Zrb2/giphy.webp"  />
+</div>
 
 ###
 
-<img align="left" height="150" src="https://profile-readme-generator.com/assets/snake.svg"  />
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=guilhermeafonsodev.guilhermeafonsodev&left_color=azure&right_color=darkgreen"  />
+</div>
 
 ###
