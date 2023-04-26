@@ -54,14 +54,14 @@
 
 ###
 
-<div align="center">
-  <img height="200" src="https://i.giphy.com/media/13FrpeVH09Zrb2/giphy.webp"  />
-</div>
+<br clear="both">
+
+<p align="center">------------------------------------------------------------------------------------</p>
 
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=guilhermeafonsodev.guilhermeafonsodev&left_color=azure&right_color=darkgreen"  />
+  <img height="200" src="https://i.giphy.com/media/13FrpeVH09Zrb2/giphy.webp"  />
 </div>
 
 ###
