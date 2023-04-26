@@ -46,7 +46,9 @@
   <a href="https://www.behance.net/guilhermeafonso" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Behance&logo=behance&label=&color=282a36&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="behance logo"  />
   </a>
-  <img src="https://img.shields.io/static/v1?message=Codepen&logo=codepen&label=&color=282a36&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="codepen logo"  />
+  <a href="https://codepen.io/guilhermeafonso/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Codepen&logo=codepen&label=&color=282a36&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="codepen logo"  />
+  </a>
   <a href="https://twitch.tv/olegnoir" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=282a36&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
   </a>
