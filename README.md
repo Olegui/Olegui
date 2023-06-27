@@ -9,21 +9,21 @@
 ###
 
 <div align="center">
-  <img src="https://img.shields.io/badge/PHP-777BB4.svg?style=for-the-badge&logo=PHP&logoColor=white" style="border-radius:5px; overflow:hidden;" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black" style="border-radius:5px; overflow:hidden;" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white" style="border-radius:5px; overflow:hidden;" />
   <img src="https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white" style="border-radius:5px; overflow:hidden;" />
-  <img src="https://img.shields.io/badge/Adobe-FF0000.svg?style=for-the-badge&logo=Adobe&logoColor=white" style="border-radius:5px; overflow:hidden;" />
-  <img src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=Android-Studio&logoColor=white" style="border-radius:5px; overflow:hidden;" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white" style="border-radius:5px; overflow:hidden;" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black" style="border-radius:5px; overflow:hidden;" />
+  <img src="https://img.shields.io/badge/jQuery-0769AD.svg?style=for-the-badge&logo=jQuery&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4.svg?style=for-the-badge&logo=PHP&logoColor=white" style="border-radius:5px; overflow:hidden;" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white" style="border-radius:5px; overflow:hidden;" />
   <img src="https://img.shields.io/badge/Sass-CC6699.svg?style=for-the-badge&logo=Sass&logoColor=white" style="border-radius:5px; overflow:hidden;" />
   <img src="https://img.shields.io/badge/Bootstrap-7952B3.svg?style=for-the-badge&logo=Bootstrap&logoColor=white" style="border-radius:5px; overflow:hidden;" />
   <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4.svg?style=for-the-badge&logo=Tailwind-CSS&logoColor=white" style="border-radius:5px; overflow:hidden;" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white" style="border-radius:5px; overflow:hidden;" />
-  <img src="https://img.shields.io/badge/jQuery-0769AD.svg?style=for-the-badge&logo=jQuery&logoColor=white" />
   <img src="https://img.shields.io/badge/WordPress-21759B.svg?style=for-the-badge&logo=WordPress&logoColor=white" style="border-radius:5px; overflow:hidden;" />
   <img src="https://img.shields.io/badge/Woo-96588A.svg?style=for-the-badge&logo=Woo&logoColor=white" style="border-radius:5px; overflow:hidden;" />
   <img src="https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black" style="border-radius:5px; overflow:hidden;" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=white" style="border-radius:5px; overflow:hidden;" />
+  <img src="https://img.shields.io/badge/Adobe-FF0000.svg?style=for-the-badge&logo=Adobe&logoColor=white" style="border-radius:5px; overflow:hidden;" />
+  <img src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=Android-Studio&logoColor=white" style="border-radius:5px; overflow:hidden;" />
 </div>
 
 ###
