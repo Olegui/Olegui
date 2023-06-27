@@ -31,7 +31,7 @@
 <br clear="both">
 
 <div align="center">
-  <a href="https://linktr.ee/guilherme.afonso" target="_blank">
+  <a href="https://taggo.one/guilhermeafonso" target="_blank">
     <img src="https://img.shields.io/badge/Linktree-43E55E.svg?style=for-the-badge&logo=Linktree&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/guilhermeafonsodev/" target="_blank">
